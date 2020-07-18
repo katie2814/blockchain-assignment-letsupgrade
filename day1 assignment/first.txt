@@ -1,0 +1,33 @@
+QUESTION 1
+
+* Blockchain is a continuously growing list of blocks containing data that is cryptographically linked.
+* It is an open distributed ledger that can record transcations between two parties efficiently and in a  verifiable and permanent way.
+
+QUESTION 2
+
+Blockchain offer an immutable ledger of data in which hacking is almost impossible
+
+QUESTION 3
+
+The few features which blockchain gives are:
+* immutable
+* Verifiability
+* Tamper-proof
+* Unchangeable
+* distributed
+* decentralised
+* Security
+
+QUESTION 4
+
+Blockchain consists of:
+* Blocknumber
+* current hash
+* previous hash
+* nonce
+* transaction records
+* time-stamp
+
+QUESTION 5
+
+Verifiability is attained through distribted ledger to the validated nodes of the blockchain group.If a data is added in one node the validity of the same data is checked in all nodes.The node is verified if there are no errors.
